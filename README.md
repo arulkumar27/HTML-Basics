@@ -92,7 +92,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Arulkumar V**
 * [GitHub](https://github.com/arulkumar27)
-* [LinkedIn](https://www.linkedin.com/in/arulkumar-v/)
+* [LinkedIn](https://www.linkedin.com/in/arulkumar27/)
 
 ---
 *If you find this repository helpful, please give it a ⭐ to support the project!*
